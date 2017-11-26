@@ -25,7 +25,7 @@ SECRET_KEY = 'z2qlkym2m!fxvg0arzs&dh+%f&ewkyt$n70t^1j&orf466)a-5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Dildora>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'peony.pythonanywhere.com']
 
 
 # Application definition
